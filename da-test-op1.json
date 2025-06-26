@@ -1,6 +1,6 @@
 {
   "name": "da-test-op1",
-  "website": "https://www.example.com"
+  "website": "https://www.example.com",
   "description": "Test operator",
   "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png"
 }
